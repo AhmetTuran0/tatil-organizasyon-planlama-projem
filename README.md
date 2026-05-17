@@ -1,6 +1,6 @@
-# 🌌 GalaxyVoyage | Gelişmiş Uzay Tatili ve Rezervasyon Yönetim Sistemi
+# 🌌 GalaxyTravel | Gelişmiş Uzay Tatili ve Rezervasyon Yönetim Sistemi
 
-GalaxyVoyage, bilimkurgu ve uzay temalı (Galaxy Style) özelleştirilmiş bir arayüz tasarımına sahip; kullanıcı profillerini, seyahat rotalarını, paket sınıflarını ve rezervasyon onay süreçlerini uçtan uca yöneten **Python & PyQt5** tabanlı modern bir masaüstü otomasyonudur.
+GalaxyTravel, bilimkurgu ve uzay temalı (Galaxy Style) özelleştirilmiş bir arayüz tasarımına sahip; kullanıcı profillerini, seyahat rotalarını, paket sınıflarını ve rezervasyon onay süreçlerini uçtan uca yöneten **Python & PyQt5** tabanlı modern bir masaüstü otomasyonudur.
 
 Sistem, ilişkisel veritabanı altyapısı (SQLite3) kullanarak tüm kullanıcı kayıtlarını ve tatil taleplerini yerelde güvenli bir şekilde saklar, yönetici paneliyle de talepleri onaylama/reddetme mekanizması sunar.
 
